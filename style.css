@@ -1,0 +1,35 @@
+h1{
+    color:rgb(223, 21, 162)
+}
+
+h2{
+    color:rgb(228, 106, 92)
+}
+
+p1{
+    color:royalblue;
+    text-align: center;
+}
+
+.header{
+   background-color: rgb(199, 218, 115);
+   display: flex;
+   justify-content: space-between;
+}
+
+.site-description{
+    background-color: rgb(228, 106, 92);
+    display: flex;
+    flex-direction: row;
+    justify-content: first baseline;
+}
+
+.grid{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+p,h2{
+    text-align: center;
+}
